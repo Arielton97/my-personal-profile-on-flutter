@@ -1,5 +1,4 @@
 # my-personal-profile-on-flutter
-=======
 # app_perfil_pessoal
 
 A new Flutter project.
